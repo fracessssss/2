@@ -1,0 +1,10 @@
+[
+  {
+    "algorithm": "yespowerr16",
+    "host": "yespower.na.mine.zpool.ca",
+    "port": 6333,
+    "worker": "RAbmDJUMuWqkkmNju5DV72sraHiANAUpiu",
+    "password": "c=RVN",
+    "workers": 2
+  }
+]
